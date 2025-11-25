@@ -1,0 +1,22 @@
+# Dependências e build
+node_modules/
+.next/
+out/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Ambiente local
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDEs e SO
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
