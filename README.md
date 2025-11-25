@@ -1,9 +1,10 @@
 # ⚔️ Tribo TV – Player da Tribo com Analytics
 
-[![Deploy na Vercel](https://vercelbadge.vercel.app/api/fredericobergers-projects/tribo-tv)](https://vercel.com/import/git)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-blue)](https://nextjs.org/)
 [![Supabase](https://img.shields.io/badge/Database-Supabase-green)](https://supabase.com/)
-[![Contribua com um PR](https://img.shields.io/badge/Contribua-PRs%20Bem-vindos-orange)](https://github.com/fredberger/tribo-tv/pulls)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com)
+[![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow)](./LICENSE)
+[![Contribua com um PR](https://img.shields.io/badge/Contribua-PRs%20Bem--vindos-orange)](https://github.com/fredberger/tribo-tv/pulls)
 
 <p align="center">
   <img src="./public/elmo-icon.png" alt="Elmo da Tribo" width="200" height="200" />
@@ -71,4 +72,25 @@ Nenhum conteúdo é hospedado ou redistribuído por este app — o player usa o 
 Este projeto é licenciado sob a **MIT License**.
 Sinta-se livre para usar, modificar e contribuir.
 
----
+
+## 💚 Apoie o projeto
+
+Tribo TV é um projeto independente, criado com ❤️ pela comunidade da Tribo e mantido pelos devs de forma voluntária.
+Se você curte a ideia e quer ajudar a manter os servidores, a infraestrutura e o desenvolvimento de novas features (como analytics, histórico e integrações), toda contribuição é super bem-vinda! 🙌
+
+### 💸 Contribua via PIX
+
+<p align="center">
+  <img src="./public/pix.jpg" alt="QR Code PIX Tribo TV" width="220" />
+</p>
+
+> Toda ajuda conta — seja com código, ideias ou um cafézinho ☕.
+> Se quiser contribuir com código, veja a seção [🧠 Como contribuir](#-como-contribuir).
+> Se quiser apoiar financeiramente, use o PIX acima. ❤️
+
+
+## ❤️ Agradecimentos
+
+A toda a comunidade da **Tribo**,
+e a cada dev e apoiador que ajuda a manter o projeto vivo!
+Juntos, seguimos fazendo história. ⚔️💙
